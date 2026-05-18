@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="loading_screen_background">#FFFFFFFF</color>
+
+    <color name="auth_primary">#FF984E4F</color>
+    <color name="auth_secondary">#FF2A2A37</color>
+    <color name="auth_label">#FF984E4F</color>
+    <color name="auth_input_text">#FF000000</color>
+    <color name="auth_card_fill">#B1FFFFFF</color>
+    <color name="auth_card_stroke">#807F7F7F</color>
+    <color name="auth_gradient_start">#CC5D6A97</color>
+    <color name="auth_gradient_center">#CC6873A9</color>
+    <color name="auth_gradient_warm">#CCCFBA97</color>
+    <color name="auth_gradient_end">#CC16130F</color>
+</resources>

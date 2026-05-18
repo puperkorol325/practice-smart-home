@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">practice_house</string>
+    <string name="auth_title">Умный дом</string>
+    <string name="auth_email_label">Электронная почта</string>
+    <string name="auth_email_hint">usernametest@mail.ru</string>
+    <string name="auth_password_label">Пароль</string>
+    <string name="auth_password_hint">********</string>
+    <string name="auth_login">Войти</string>
+    <string name="auth_register">Регистрация</string>
+</resources>
