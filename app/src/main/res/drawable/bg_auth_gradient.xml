@@ -3,7 +3,7 @@
     <gradient
         android:angle="270"
         android:centerColor="@color/auth_gradient_center"
-        android:centerY="0.45"
+        android:centerY="1"
         android:endColor="@color/auth_gradient_end"
         android:startColor="@color/auth_gradient_start"
         android:type="linear" />

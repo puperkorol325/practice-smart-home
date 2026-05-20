@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
+    <color name="black">#000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="loading_screen_background">#FFFFFFFF</color>
 
     <color name="auth_primary">#FF984E4F</color>
     <color name="auth_secondary">#FF2A2A37</color>
-    <color name="auth_label">#FF984E4F</color>
-    <color name="auth_input_text">#FF000000</color>
+    <color name="auth_label">#94949B</color>
+    <color name="auth_input_text">#030303</color>
     <color name="auth_card_fill">#B1FFFFFF</color>
     <color name="auth_card_stroke">#807F7F7F</color>
-    <color name="auth_gradient_start">#CC5D6A97</color>
-    <color name="auth_gradient_center">#CC6873A9</color>
-    <color name="auth_gradient_warm">#CCCFBA97</color>
-    <color name="auth_gradient_end">#CC16130F</color>
+    <color name="auth_gradient_start">#30CCE1</color>
+    <color name="auth_gradient_center">#3B30CCE1</color>
+    <color name="auth_gradient_warm">#0030CCE1</color>
+    <color name="auth_gradient_end">#0030CCE1</color>
+
+    <color name="pin_dot_empty">#80FFFFFF</color>
+    <color name="keypad_background">#8430CCE1</color>
+
+    <color name="main_header_background">#FF2A2A37</color>
+    <color name="main_primary">#FF004EA8</color>
+    <color name="main_address_text">#FFB0B0B8</color>
+    <color name="main_body_background">#FFFFFFFF</color>
 </resources>

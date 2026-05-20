@@ -27,8 +27,17 @@
             android:exported="false"
             android:theme="@style/Theme.Practice_house.Auth" />
         <activity
+            android:name=".RegistrationActivity"
+            android:exported="false"
+            android:theme="@style/Theme.Practice_house.Auth" />
+        <activity
+            android:name=".CreatePinActivity"
+            android:exported="false"
+            android:theme="@style/Theme.Practice_house.Auth" />
+        <activity
             android:name=".MainActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:theme="@style/Theme.Practice_house.Main" />
     </application>
 
 </manifest>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/main_room_card_height"
+    android:background="@drawable/bg_main_room_card"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingStart="@dimen/main_room_card_padding_horizontal"
+    android:paddingEnd="@dimen/main_room_card_padding_horizontal">
+
+    <ImageView
+        android:id="@+id/room_icon"
+        android:layout_width="@dimen/main_room_icon_size"
+        android:layout_height="@dimen/main_room_icon_size"
+        android:layout_marginEnd="@dimen/main_room_icon_margin_end"
+        android:contentDescription="@null"
+        android:importantForAccessibility="no"
+        android:scaleType="fitCenter"
+        tools:srcCompat="@drawable/ic_main_room_living" />
+
+    <TextView
+        android:id="@+id/room_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/main_primary"
+        android:textSize="@dimen/main_room_name_text_size"
+        android:textStyle="bold"
+        tools:text="Гостиная" />
+
+</LinearLayout>
