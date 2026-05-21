@@ -132,12 +132,7 @@
                 android:paddingStart="@dimen/main_room_list_padding_horizontal"
                 android:paddingTop="@dimen/main_room_list_padding_top"
                 android:paddingEnd="@dimen/main_room_list_padding_horizontal"
-                android:paddingBottom="@dimen/main_room_list_padding_bottom">
-
-                <include layout="@layout/item_main_room" />
-
-            </LinearLayout>
-
+                android:paddingBottom="@dimen/main_room_list_padding_bottom" />
 
         </androidx.core.widget.NestedScrollView>
 

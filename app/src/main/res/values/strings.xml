@@ -21,4 +21,16 @@
     <string name="main_room_bathroom">Ванная</string>
     <string name="main_add_room">Добавить комнату</string>
     <string name="main_settings">Настройки</string>
+
+    <string name="add_room_title">Добавить комнату</string>
+    <string name="add_room_name_hint">Название комнаты</string>
+    <string name="add_room_select_type">Выбрать комнату</string>
+    <string name="add_room_save">Сохранить</string>
+    <string name="add_room_back">Назад</string>
+    <string name="add_room_type_living">Гостиная</string>
+    <string name="add_room_type_kitchen">Кухня</string>
+    <string name="add_room_type_bathroom">Ванная</string>
+    <string name="add_room_type_office">Кабинет</string>
+    <string name="add_room_type_bedroom">Спальня</string>
+    <string name="add_room_type_hall">Зал</string>
 </resources>

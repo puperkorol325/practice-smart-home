@@ -38,6 +38,10 @@
             android:name=".MainActivity"
             android:exported="false"
             android:theme="@style/Theme.Practice_house.Main" />
+        <activity
+            android:name=".AddRoomActivity"
+            android:exported="false"
+            android:theme="@style/Theme.Practice_house.Main" />
     </application>
 
 </manifest>

@@ -17,9 +17,18 @@
 
     <color name="pin_dot_empty">#80FFFFFF</color>
     <color name="keypad_background">#8430CCE1</color>
+    <color name="pin_key_border">#FF000000</color>
 
     <color name="main_header_background">#FF2A2A37</color>
     <color name="main_primary">#FF004EA8</color>
     <color name="main_address_text">#FFB0B0B8</color>
     <color name="main_body_background">#FFFFFFFF</color>
+    <color name="main_gray">#94949B</color>
+
+    <color name="add_room_input_border">#FFB8C4D9</color>
+    <color name="add_room_input_hint">#FF96969F</color>
+    <color name="add_room_input_text">#FF030303</color>
+    <color name="add_room_section_label">#FF96969F</color>
+    <color name="add_room_type_label_default">#FF96969F</color>
+    <color name="add_room_type_circle_default">#FF96969F</color>
 </resources>
